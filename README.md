@@ -10,7 +10,7 @@ This is a simple iOS app built with SwiftUI to help users track and countdown to
 - **SwiftUI-based UI**: A clean and responsive user interface built entirely with SwiftUI.
 
 ## Installation:
-1. Clone this repository: git clone https://github.com/Asheshp23/EventsApp/new/develop
+1. Clone this repository: git clone [https://github.com/Asheshp23/EventsApp/new/develop](https://github.com/Asheshp23/EventsApp.git)
 2. Open the project in Xcode.
 3. Build and run the app on your iOS device or simulator.
 

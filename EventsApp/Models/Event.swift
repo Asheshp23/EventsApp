@@ -5,7 +5,8 @@
 //  Created by Ashesh Patel on 2024-12-02.
 //
 import Foundation
-import SwiftUICore
+import SwiftUI
+import UIKit
 
 struct Event: Identifiable, Comparable {
   static func < (lhs: Event, rhs: Event) -> Bool {
@@ -16,6 +17,7 @@ struct Event: Identifiable, Comparable {
   var title: String
   var date: Date
   var textColor: Color
+  var image: UIImage?
 }
 
 enum Mode {
